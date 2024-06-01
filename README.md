@@ -1,4 +1,4 @@
-
+![Football Vision](fut_gif.gif)
 
 FootballVision-YOLOv9 is a project that leverages the YOLOv9 deep learning model to perform real-time object detection in football (soccer) matches.
 This repository contains the code for training the YOLOv9 model on a custom football dataset and applying the trained model to video footage of football games to detect and track players, ball, and other relevant objects.
